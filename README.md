@@ -2,8 +2,9 @@
 
 > BDD assertion library.
 
-[![Current Version](https://img.shields.io/npm/v/code.svg)](https://www.npmjs.org/package/code)
-[![Build Status](https://secure.travis-ci.org/hapijs/code.svg)](http://travis-ci.org/hapijs/code)
+![npm (scoped)](https://img.shields.io/npm/v/@tleef/code.svg)
+![Travis (.org) branch](https://img.shields.io/travis/tleef/code/release.svg)
+![Coveralls github branch](https://img.shields.io/coveralls/github/tleef/code/release.svg)
 
 Lead Maintainer - [Colin Ihrig](https://github.com/cjihrig)
 

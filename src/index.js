@@ -4,7 +4,7 @@
 
 const NodeUtil = require('util');
 
-const Hoek = require('hoek');
+const Hoek = require('@tleef/hoek');
 
 
 // Declare internals

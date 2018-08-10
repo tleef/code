@@ -4,9 +4,8 @@
 
 const Util = require('util');
 
-const Hoek = require('hoek');
-const Lab = require('lab');
-const Code = require('..');
+const Hoek = require('@tleef/hoek');
+const Code = require('../src');
 
 
 // Declare internals
@@ -15,8 +14,6 @@ const internals = {};
 
 
 // Test shortcuts
-
-const { describe, it } = exports.lab = Lab.script();
 
 
 describe('count()', () => {
